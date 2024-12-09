@@ -1,0 +1,5 @@
+package SwiggyZomato.enums;
+
+public enum ORDER_STATUS {
+	PLACED, ACCEPTED, PREPARING, ON_THE_WAY, REACHED, DELIVERED, CANCELLED
+}
