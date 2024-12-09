@@ -1,0 +1,11 @@
+package SwiggyZomato.enums;
+
+public enum CUISINE {
+	NORTH_INDIAN,
+	SOUTH_INDIAN,
+	CHINESE,
+	ITALIAN,
+	CONTINENTAL,
+	STREET_FOOD,
+	SWEETS
+}
