@@ -6,7 +6,7 @@ import java.util.concurrent.Executors;
 public class OnlineTicketBookingApplication {
     public static void main(String[] args) {
         int capacity = 5;
-        MovieTheatre theatre = new MovieTheatre(5);
+        OnlineMovieTheatre theatre = new OnlineMovieTheatre(5);
         System.out.println("Initial state of seats:");
         theatre.displayAvailableSeats();
 
